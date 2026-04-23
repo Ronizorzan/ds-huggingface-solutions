@@ -1,0 +1,17 @@
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+pillow
+numpy
+typing
+scikit-image
+huggingface_hub
+kornia
+timm
+transformers>=4.39.1
+gradio
+ipywidgets==8.1.8
+matplotlib==3.10.8
+requests==2.33.1
+python-dotenv==1.2.2
+google-generativeai

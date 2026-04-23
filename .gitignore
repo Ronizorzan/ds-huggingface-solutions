@@ -1,0 +1,13 @@
+# Environment Variables
+.env
+
+# Images
+*.jpg
+*.png
+
+
+
+# Python
+__pycache__/
+.gradio/
+.venv/
