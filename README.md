@@ -1,9 +1,3 @@
----
-title: Smart-Ecommerce
-app_file: main_app.py
-sdk: gradio
-sdk_version: 6.12.0
----
 # 📦 Soluções de IA com Hugging Face
 - Aplicações práticas que demonstram como IA generativa e visão computacional podem **reduzir custos, acelerar operações e aumentar eficiência** em cenários reais de negócio.
 
@@ -33,6 +27,7 @@ A integração entre visão computacional e IA generativa gera **ganhos operacio
 | **Redução de erros** | Zero subjetividade humana |
 
 
+![Gradio Interface](Interface/Interface-gradio.gif)
 
 
 ## 🚀 Como rodar localmente
