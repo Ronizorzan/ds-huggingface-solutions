@@ -127,6 +127,7 @@ python app.py
 ```Huggingface-Solutions/
 │
 ├── Interface                    # Amostras da Interface (GIFs)
+├── test_notebooks               # Notebooks de Teste Inicial das aplicações e Modelos
 ├── app.py                       # Aplicação (Suporte Automatizado para E-commerce)
 ├── app02.py                     # Aplicação (Análise de Sentimentos Otimizada)
 ├── image_classification.py      # Classificação de Imagens
