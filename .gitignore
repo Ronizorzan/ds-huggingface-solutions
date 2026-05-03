@@ -1,9 +1,9 @@
 # Environment Variables
 .env
+db_config.yaml
 
 # Images
-*.jpg
-*.png
+images/
 
 
 

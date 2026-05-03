@@ -29,8 +29,38 @@ A integração entre visão computacional e IA generativa gera **ganhos operacio
 | **Satisfação do cliente** | Respostas rápidas e claras |
 | **Redução de erros** | Zero subjetividade humana |
 
+## 📊 Projeto 2: Análise de Sentimentos em Reviews de E‑commerce
+### Pipeline otimizado que combina:
 
-## ✈️ Projeto 2: Image Captioning com ViT‑GPT2
+- 1) Conexão direta com banco de dados PostgreSQL → consultas rápidas e seguras, sem camadas intermediárias.
+
+- 2) Modelo HuggingFace DistilBERT → eficiente, barato e já fine‑tuned para sentiment analysis.
+
+- 3) Batch processing inteligente → redução de latência e melhor aproveitamento de recursos.
+
+- 4) Interface leve e intuitiva com Gradio → visualização clara de métricas e distribuição de sentimentos.
+
+![Gradio Interface 2](Interface/Interface-gradio-2.gif)
+
+## 💼 Valor para o Negócio
+A integração entre banco de dados real e IA generativa traz **impacto imediato para operações de e‑commerce:**
+
+| Benefício | Impacto |
+| --- | --- |
+| **Economia de tempo** | Consultas diretas → até **10x mais rápidas** |
+| **Economia financeira** | Uso de modelo HuggingFace → **baixo custo operacional** |
+| **Velocidade de análise** | De milhares de reviews em minutos → **segundos** |
+| **Escalabilidade** | Processa até **5.000 reviews por execução** |
+| **Padronização** | Classificação consistente e confiável |
+| **Satisfação do cliente** | Insights rápidos para decisões estratégicas |
+| **Redução de erros** | Zero subjetividade humana |
+| **Transparência** | Logs automáticos de performance |
+
+### ⚡ Reviews analisados em tempo otimizado
+![Reviews](Interface/tempo_reviews.png)
+
+
+## ✈️ Projeto 3: Image Captioning com ViT‑GPT2
 ### Pipeline otimizado que combina:
 - 1) Vision Transformer (ViT) para extração robusta de features visuais.
 
@@ -40,7 +70,7 @@ A integração entre visão computacional e IA generativa gera **ganhos operacio
 
 - 4) Suporte a upload de imagens e API para fácil integração em outros sistemas.
 
-![Gradio Interface 2](Interface/Interface-gradio-2.gif)
+![Gradio Interface 3](Interface/Interface-gradio-3.gif)
 
 ## 🌍 Valor para o Mundo Real
 A união entre visão computacional e modelos de linguagem abre **aplicações práticas em diversos setores:**
@@ -57,7 +87,7 @@ A união entre visão computacional e modelos de linguagem abre **aplicações p
 | **Padronização** | Legendas consistentes e sem subjetividade |
 
 
-## 🦒 Projeto 3: Detecção de Objetos com DETR‑ResNet‑50
+## 🦒 Projeto 4: Detecção de Objetos com DETR‑ResNet‑50
 ### Pipeline otimizado que combina:
 - 1) DETR (Detection Transformer) para detecção direta e eficiente de objetos.
 
@@ -67,7 +97,7 @@ A união entre visão computacional e modelos de linguagem abre **aplicações p
 
 - 4) Suporte a upload de imagens e API para integração em sistemas externos.
 
-![Gradio Interface 3](Interface/Interface-gradio-3.gif)
+![Gradio Interface 4](Interface/Interface-gradio-4.gif)
 
 ## 🌍 Valor para o Mundo Real
 A detecção automática de objetos com modelos baseados em Transformers abre espaço para **aplicações práticas em diversos setores:**
@@ -90,15 +120,19 @@ A detecção automática de objetos com modelos baseados em Transformers abre es
 ```bash
 pip install -r requirements.txt
 python app.py
+```
 
+##  Estrutura do Projeto
 
-```ecommerce-defect-detector/
+```Huggingface-Solutions/
 │
-├── app.py
-├── rmbg.py
-├── defect_detector.py
-├── utils.py
+├── Interface                    # Amostras da Interface (GIFs)
+├── app.py                       # Aplicação (Suporte Automatizado para E-commerce)
+├── app02.py                     # Aplicação (Análise de Sentimentos Otimizada)
+├── image_classification.py      # Classificação de Imagens
+├── image_to_text.py             # Aplicação (Descrição Automática de Imagens variadas)
+├── object_detection.py          # Aplicação (Detector Automático de Objetos em Imagens variadas)
 │
-├── requirements.txt
-└── README.md
+├── requirements.txt             # Dependências do projeto
+└── README.md                    # Documentação do Projeto
 ```

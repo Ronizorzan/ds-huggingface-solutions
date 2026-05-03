@@ -1,3 +1,4 @@
+typing-extensions
 torch==2.11.0
 torchvision==0.26.0
 torchaudio==2.11.0
@@ -15,3 +16,6 @@ matplotlib==3.10.8
 requests==2.33.1
 python-dotenv==1.2.2
 google-generativeai
+pysentimiento
+psycopg2-binary
+plotly
