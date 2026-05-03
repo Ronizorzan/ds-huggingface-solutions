@@ -12,7 +12,7 @@
 
 - 4) Interface ***leve e intuitiva com Gradio.***
 
-![Gradio Interface](Interface/Interface-gradio.gif)
+![Gradio Interface](Interface/Interface_gradio.gif)
 
 
 ## 💼 Valor para o Negócio
@@ -40,7 +40,7 @@ A integração entre visão computacional e IA generativa gera **ganhos operacio
 
 - 4) Interface leve e intuitiva com Gradio → visualização clara de métricas e distribuição de sentimentos.
 
-![Gradio Interface 2](Interface/Interface-gradio-2.gif)
+![Gradio Interface 2](Interface/Interface_gradio_2.gif)
 
 ## 💼 Valor para o Negócio
 A integração entre banco de dados real e IA generativa traz **impacto imediato para operações de e‑commerce:**
@@ -70,7 +70,7 @@ A integração entre banco de dados real e IA generativa traz **impacto imediato
 
 - 4) Suporte a upload de imagens e API para fácil integração em outros sistemas.
 
-![Gradio Interface 3](Interface/Interface-gradio-3.gif)
+![Gradio Interface 3](Interface/Interface_gradio_3.gif)
 
 ## 🌍 Valor para o Mundo Real
 A união entre visão computacional e modelos de linguagem abre **aplicações práticas em diversos setores:**
@@ -97,7 +97,7 @@ A união entre visão computacional e modelos de linguagem abre **aplicações p
 
 - 4) Suporte a upload de imagens e API para integração em sistemas externos.
 
-![Gradio Interface 4](Interface/Interface-gradio-4.gif)
+![Gradio Interface 4](Interface/Interface_gradio_4.gif)
 
 ## 🌍 Valor para o Mundo Real
 A detecção automática de objetos com modelos baseados em Transformers abre espaço para **aplicações práticas em diversos setores:**
